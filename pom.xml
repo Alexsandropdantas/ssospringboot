@@ -14,7 +14,7 @@
 	<groupId>com.alex</groupId>
 	<artifactId>ssospringboot</artifactId>
 	<version>0.0.1</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 	<name>ssospringboot</name>
 	<description>SSO Spring boot</description>
 
