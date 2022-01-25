@@ -13,7 +13,7 @@
 
 	<groupId>com.alex</groupId>
 	<artifactId>ssospringboot</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<name>ssospringboot</name>
 	<description>SSO Spring boot</description>
 
